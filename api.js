@@ -10,6 +10,6 @@
         }
         
         }
-        
+        api.onSuccess('Connected with ');
          window.api = new API();
 })();
